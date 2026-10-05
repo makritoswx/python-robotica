@@ -1,0 +1,5 @@
+nombre: junior1 tipo: <class 'str'>
+ruedas: 16 tipo: <class 'int'>
+diametro de las ruedas: 3.14 tipo: <class 'float'>
+bateria: 100 tipo: <class 'int'>
+encendido: True tipo: <class 'bool'>
