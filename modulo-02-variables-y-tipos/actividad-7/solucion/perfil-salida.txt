@@ -1,0 +1,5 @@
+nombre junior <class 'str'>
+anio 2026 <class 'int'>
+altura_cm 1.8 <class 'float'>
+autonomo True <class 'bool'>
+VERSION_ESPERADA v1.0 <class 'str'>
