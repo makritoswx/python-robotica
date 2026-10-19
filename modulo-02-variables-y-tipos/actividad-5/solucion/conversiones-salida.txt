@@ -1,0 +1,3 @@
+texto_entero: 3 tipo: <class 'int'>
+texto_decimal: 3.5 tipo: <class 'float'>
+numero: 42 tipo: <class 'str'>
