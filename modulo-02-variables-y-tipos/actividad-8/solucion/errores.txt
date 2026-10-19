@@ -1,0 +1,11 @@
+  print("distancia", distancia, typue(distancia))
+                                  ^^^^^
+NameError: name 'typue' is not defined. Did you mean: 'type'?
+
+  print("nombre", nombre, type(nombre)))
+                                         ^
+SyntaxError: unmatched ')'
+
+  print("distancia"r, distancia, type(distancia))
+          ^^^^^^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?

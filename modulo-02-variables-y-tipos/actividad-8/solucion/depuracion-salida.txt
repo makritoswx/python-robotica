@@ -1,0 +1,3 @@
+distancia 40km <class 'str'>
+esta_encendido True <class 'bool'>
+nombre uriel <class 'str'>
