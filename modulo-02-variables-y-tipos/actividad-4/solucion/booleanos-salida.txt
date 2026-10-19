@@ -1,0 +1,5 @@
+n-robotica/modulo-02-variables-y-tipos/actividad-4/solucionbooleanos.py
+bateria_ok: True tipo: <class 'bool'>
+hay_pared: False tipo: <class 'bool'>
+cargando: True tipo: <class 'bool'>
+modo_autonomo: True tipo: <class 'bool'>
