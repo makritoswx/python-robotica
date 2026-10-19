@@ -1,0 +1,5 @@
+distancia tipo <class 'str'>
+cm tipo <class 'str'>
+45 tipo <class 'str'>
+80 tipo <class 'int'>
+45.0 tipo <class 'float'>
