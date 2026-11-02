@@ -1,0 +1,11 @@
+['ultrasonidos', 'infrarrojos', 'luz']
+[40, 12, 80]
+['ultrasonidos', 'infrarrojos', 'luz', 'presencia']
+[40, 12, 80, 6]
+['ultrasonidos', 'infrarrojos', 'presencia']
+[40, 12, 6]
+3
+3
+6
+40
+['ultrasonidos', 'infrarrojos']
