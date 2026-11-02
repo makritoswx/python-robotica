@@ -1,0 +1,3 @@
+adelante
+izquierda
+parar
