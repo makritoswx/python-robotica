@@ -3,7 +3,7 @@ distancias = [40, 12, 80]
 print(sensores)
 print(distancias)
 sensores.append("presencia")
-distancias.append(6)
+distancias.append(5)
 print(sensores)
 print(distancias)
 sensores.remove("luz")
